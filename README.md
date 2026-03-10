@@ -18,6 +18,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" />
 
 
+
+
+
+
+
+
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZumaAraujo/ZumaAraujo/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZumaAraujo/ZumaAraujo/output/pacman-contribution-graph.svg">
