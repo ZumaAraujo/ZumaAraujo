@@ -2,8 +2,8 @@ name: Generate Pac-Man Game
 
 on:
   schedule:
-    - cron: "0 */24 * * *"  # Atualiza a cada 24 horas
-  workflow_dispatch:         # Permite executar manualmente
+    - cron: "0 */24 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -20,6 +20,9 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
+          # Adicione estas linhas para personalizar cores:
+          pacman_color: "000000"  # Preto em hexadecimal
+          background_color: "222222"  # Fundo cinza escuro (opcional)
           
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v2.1.3
