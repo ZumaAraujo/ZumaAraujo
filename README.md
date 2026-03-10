@@ -25,4 +25,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ZumaAraujo/ZumaAraujo/output/pacman-contribution-graph.svg">
 </picture>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+Angélica+Araújo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=FF4DA6&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+Angélica+Araujo)](https://git.io/typing-svg)
