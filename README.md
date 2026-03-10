@@ -26,6 +26,6 @@
 </picture>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=800&color=FF00FF&center=true&vCenter=true&width=600&lines=Olá!+Eu+sou+Angélica+Araújo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=FF0080&center=true&vCenter=true&width=600&lines=Angelica+Araujo)](https://git.io/typing-svg)
 
 
