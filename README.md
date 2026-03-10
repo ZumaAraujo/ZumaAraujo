@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 What's Up?</h1><div align="center">
+<h1 align="center">⚠️ Área em desenvolvimento ⚠️ </h1><div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" />
